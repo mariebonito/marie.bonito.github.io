@@ -1,0 +1,392 @@
+Foodica
+https://www.wpzoom.com/themes/foodica
+
+CHANGELOG
+---------
+
+v 3.0.6 (August 20, 2021)
+
+    - Minor improvements to the styles of the block editor
+    - CSS clean-up
+
+
+v 3.0.5 (April 21, 2021)
+
+    - Fixed some issues with the print style sheet
+    - Fixed a bug with the sharing buttons
+    - Fixed issue with pagination linking to page "1"
+    - Added a new option to resize the logo image in the Customizer > Site Identity
+
+
+v 3.0.4 (February 15, 2021)
+
+    - Fixed a PageSpeed issue in theme: "Does not use passive listeners to improve scrolling performance"
+    !!! Make sure to clear the cache after updating your theme in your caching and optimization plugins (Autoptimize, etc.)
+
+
+v 3.0.3 (February 11, 2021)
+
+    - Fixed issues listed in the jQuery Migrate Helper plugin
+    - Multiple improvements to improve the performance of the theme
+    !!! Make sure to clear the cache after updating your theme in your caching and optimization plugins (Autoptimize, etc.)
+
+
+v 3.0.2 (December 10, 2020)
+
+    - Added 2 new options in the Typography section in the Customizer to customize the post content font.
+
+
+v 3.0.1 (November 13, 2020)
+
+    - Minor bug fix with logo image not centered
+
+
+v 3.0.0 (November 5, 2020)
+
+    - The Featured Slider was re-designed on mobile devices
+    - Header area is now more compact on mobile devices. You can switch back to the previous design from Customizer > Header Options.
+    - Main Menu will now stick at the top when scrolling.
+    - Minor improvements and fixes
+
+
+v 2.9.0 (September 16, 2020)
+
+    - Added new option to display posts in 2 columns in the "WPZOOM: Recent Posts" widget
+    - Added new option to display Sharing buttons before the content (Theme Options > Single Post Options)
+    - Visual improvements
+    - Optimization improvements and bug fixes
+
+
+v 2.8.10 (August 13, 2020)
+
+    - Fixed a bug with comments not appearing after updating to WordPress 5.5
+
+
+v 2.8.9 (July 29, 2020)
+
+    - Minor bug fix to improve the PageSpeed score
+
+
+v 2.8.8 (May 15, 2020)
+
+    - Bug fix with version number.
+
+
+v 2.8.7 (May 15, 2020)
+
+    - Fixed a bug with images not showing on the Recipe Index page when Lazy Load Images is enabled.
+    - A few other minor bug fixes
+
+
+v 2.8.6 (May 13, 2020)
+
+    - Added a new page template "Blog"
+
+
+v 2.8.5 (April 6, 2020)
+
+    - Added new sharing button for Yummly (You can enable it in Theme Options > Single Post Options)
+
+
+v 2.8.4 (January 28, 2020)
+
+    - New options to customize tags colors in posts (Customizer > Colors > Individual Posts)
+    - New options to hide Pin It and Print buttons in posts (Theme Options > Single Post Options)
+
+
+v 2.8.3 (September 22, 2019)
+
+    - Added partial French translation (your contribution is highly appreciated to translate the theme)
+    - Fixed a problem with the list of recommended plugins
+
+
+v 2.8.2 (August 14, 2019)
+
+    - New option in Customizer > Typography > Body to Sync the same font in all options. Useful if you want to disable Google Fonts in the theme by selecting a System font.
+    - Added inline documentation in the Dashboard. You can disable it from Theme Options > Framework Options.
+
+
+v 2.8.1 (July 14, 2019)
+
+    - You can customize now the Font Size in Typography section for different devices individually: Desktop, Tablet and Mobile.
+
+
+v 2.8.0 (May 16, 2019)
+
+    - Added a new Tabbed area in the Sidebar with 2 new widgets: Popular Posts (by comments no.) and Popular Posts (by views count).
+      View set up instructions: https://www.wpzoom.com/documentation/foodica/foodica-tabs-section-in-sidebar-with-popular-posts/
+
+
+v 2.7.4 (May 4, 2019)
+
+    - Minor bug fix in the footer.php file
+
+
+v 2.7.3 (March 29, 2019)
+
+    - Added new option in Theme Options to disable Featured Posts Re-order module.
+    - Minor fix with translation template
+
+
+v 2.7.2 (March 24, 2019)
+
+    - Color changes made in the Customizer to Recipe Shortcodes will be also applied to Recipe Blocks in the new editor.
+    - Minor bug fixes
+
+
+v 2.7.1 (March 12, 2019)
+
+    - Added new page templates to help creating static front page easier using page builders
+    - Added minor styling for WP Recipe Maker plugin
+
+
+v 2.7.0 (March 7, 2019)
+
+    - New option to add a Disclosure Statement at the beginning of posts (see Theme Options > Single Post Options)
+    - New color options for button from Author Bio widget (see Customizer > Colors > Widgets)
+    - New widget area at the top of the content in single posts (Single Post (before content))
+    - New widget area after the Copyright line (Footer Disclosure). Can be used to add disclosure statements or links in it.
+    - New option to display Last Updated date in individual posts (see Theme Options > Single Post Options)
+    - Improvements to Slideshow images. Images are now retina-ready, and will look in better quality on devices with retina displays. Make sure to regenerate the thumbnails if you don't see any difference
+
+
+v 2.6.5 (January 29, 2019)
+
+    - New option in the Author Bio widget to add a Button below the text
+
+
+v 2.6.4 (December 7, 2018)
+
+    - Minor bug fixes in WordPress 5.0
+
+
+v 2.6.3 (November 19, 2018)
+
+    - Added integration with Yoast Breadcrumbs
+    - Added ability to show some content or a short description below the Title in the Recipe Index page. Just insert your text in the page editor by editing your Recipe Index page.
+
+
+v 2.6.2 (November 6, 2018)
+
+    - Fixed a minor bug with slideshow on tablet devices.
+
+
+v 2.6.1 (November 1, 2018)
+
+    - Minor fix with galleries in the Gutenberg editor.
+
+
+v 2.6.0 (August 18, 2018)
+
+    - Added Gutenberg Support: wide images support in full-width posts/pages, multiple bug fixes
+    * New Required plugin to enable Recipe Card Blocks in Gutenberg editor: https://wordpress.org/plugins/recipe-card-blocks-by-wpzoom/
+
+
+v 2.5.5 (June 18, 2018)
+
+    - Added new option to disable the Structured Data (Rich Snippets) markup for Recipes globally (See Theme Options > Stuctured Data)
+
+
+v 2.5.4 (May 25, 2018)
+
+    - Added support for WordPress 4.9.6 - Comments Cookie Opt-in (GDPR).
+
+
+v 2.5.3 (March 5, 2018)
+
+    - Added support for WP Ultimate Recipe in Featured Slider
+
+
+v 2.5.2 (February 22, 2018)
+
+    - Added Gradient Editor for Homepage Slideshow Background in the Customizer > Slider Styles
+
+
+v 2.5.1 (February 15, 2018)
+
+    - Added custom styling for MailPoet 3 widgets.
+
+
+v 2.5.0 (January 25, 2018)
+
+    - Re-order & manage Featured Posts from the homepage slideshow much easier! See the new section: "Posts > Featured Posts" for more details.
+
+
+v 2.4.1 (November 22, 2017)
+
+    - Fixing a minor bug in WordPress 4.9
+
+
+v 2.4.0 (September 25, 2017)
+
+    - Create a magazine layout easily by adding the new "Featured Category (Homepage)" widget in the "Homepage: Featured Categories" widget area.
+    - New options to hide Recent Posts or Paginated Navigation in front page in Theme Options > Homepages > Recent Posts.
+    - Minor footer adjustments & other improvements
+
+
+v 2.3.1 (July 3, 2017)
+
+    - minor bug fix in Recipe Index page templates
+
+
+v 2.3.0 (July 2, 2017)
+
+    - Added 3 New Recipe Index Page Templates. See Theme Options > Recipe Index Settings for more details.
+    - New Option: You can now change the Featured Image's aspect ratio to Portrait (3:4) from Theme Options > Homepage Posts and Category Posts.
+    - New styling for Tag Cloud widget.
+    - Fixed Print button in Firefox
+    !! Thumbnails regeneration is required if you update from an older version. See instructions: http://bit.ly/1MYpMeb
+
+
+v 2.2.2 (June 1, 2017)
+
+    - footer.php - minor bug fix with the slider in Firefox browser
+
+
+v 2.2.1 (April 11, 2017)
+
+    - /functions/post-options.php - minor bug fix
+
+
+v 2.2.0 (April 7, 2017)
+
+    - Improvements to WooCommerce styling
+    - Added support for WooCommerce 3.0.0
+    - Added new option that allows to disable the Structured Data (hRecipe Rich Snippets) for individual blog posts
+
+
+v 2.1.0 (January 30, 2017)
+
+    - Improvements to the Instagram bar from the footer
+    - Added navigation to previous/next posts.
+    - Headings font changed back to Roboto Slab as in 1.x version
+    - Added new option to change the Gravatar size in the Author Bio widget.
+    - Added integration with EasyIndex (Recipe Index) plugin.
+
+
+v 2.0.2 (December 2, 2016)
+
+    - Added Retina Ready option for Site Logo
+    - Fixed a few bugs in Customizer
+
+
+v 2.0.1 (November 30, 2016)
+
+    - Minor visual improvements to mobile menu
+    - Minor bug fix with fonts in Customizer
+
+
+v 2.0.0 (November 17, 2016)
+
+    - Support for WordPress native Logo (Customizer > Site Identity)
+    - Header Options in Customizer
+    - New Slider Styles in Customizer
+    - Predefined Color Schemes can now be changed in Customizer
+    - New Color Scheme: Red
+    - New Widget: WPZOOM: Image Box
+    - 3 New Widget areas on Homepage (3 columns below the slider)
+    - A better mobile menu (+ new menu location for mobile)
+    - Multiple visual improvements and bug fixes.
+
+
+v 1.3.1 (November 7, 2016)
+
+    - Added Print button in posts
+    - Improved print style sheet
+    - Minor bug fix in Customizer > Typography (Single Post Title not changing)
+    - modified files:
+        - /fonts/ - all files
+        - /functions/customizer/helpers-display.php
+        - /functions/options.php
+        - content-single.php
+        - style.css
+
+
+v 1.3.0 (August 22, 2016)
+
+    - Improved Theme Customizer with Partial Refresh for Typography and Color Scheme
+
+
+v 1.2.1 (April 2, 2016)
+
+    - Added 3 new Color Styles: Orange, Teal, Turquoise.
+
+
+v 1.2.0 (April 1, 2016)
+
+    - Added multiple font styling options in the Customizer (Font Weight, Font Style, Text Transform)
+    - Added new color options in the Customizer.
+    - "List" layout for posts was changed into a traditional blog layout.
+    - New section in Theme Options - "Category Posts", which allows to customize posts options on Category pages.
+    - Homepage Slider now works with pages. You can find this option in the Theme Options > Homepage > Homepage Slideshow > Content Source.
+    - Added Category description on Category pages
+    - Numerous improvements and bug fixes.
+    !! Thumbnails regeneration is required if you update from an older version. See instructions: http://bit.ly/1MYpMeb
+
+
+v 1.1.2 (January 30, 2016)
+
+    - /css/media-queries.css - bug fix with widget area below the slider showing widgets incorrectly on tablets
+
+
+v 1.1.1 (December 15, 2015)
+
+    - content-single.php - Bug fix with incorrect size for Featured Image at the top.
+
+
+v 1.1.0 (December 9, 2015)
+
+    - New Feature: Homepage & Category pages layout can be changed from Theme Options > Layouts. Now you can hide the sidebar on front page and show posts in 3 columns.
+    - Added support for Jetpack Infinite Scroll
+    - Minor bug fixes. Thumbnails regeneration may be needed.
+    - modified files:
+        - /css/media-queries.css
+        - /functions/widgets/carousel.php
+        - /functions/widgets/featured-category.php
+        - /functions/functions.php
+        - /functions/options.php
+        - archive.php
+        - content.php
+        * content-sticky.php - new file
+        - footer.php
+        - index.php
+        - search.php
+        - style.css
+        - wpzoom-slider.php
+
+
+v 1.0.4 (October 17, 2015)
+
+    - Minor bug fixed in the slider in Firefox 41.0.2.
+    - modified files:
+        - style.css
+
+
+v 1.0.3 (September 14, 2015)
+
+    - Fixed a bug with translations.
+    - Added new translation files for Russian language.
+    - modified files:
+        - /languages/en_US.pot renamed to foodica.pot
+        - style.css
+
+
+v 1.0.2 (July 30, 2015)
+
+    - content-single.php - Fixed a bug with "Pin it" button from individual posts.
+
+
+v 1.0.1 (July 17, 2015)
+
+    - Added "Full-width" template for posts.
+    - modified files:
+        - /functions/functions.php
+        - /functions/post-options.php
+        - content-single.php
+        - single.php
+        - style.css
+
+
+v 1.0 (June 9, 2015)
+
+    - initial release

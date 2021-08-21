@@ -1,0 +1,9 @@
+<wpml-config>
+    <admin-texts>
+        <key name="wpzoom_recent_title" />
+        <key name="wpzoom_post_share_label_twitter" />
+        <key name="wpzoom_post_share_label_facebook" />
+        <key name="wpzoom_post_share_label_print" />
+        <key name="wpzoom_post_share_label_pinterest" />
+    </admin-texts>
+</wpml-config>

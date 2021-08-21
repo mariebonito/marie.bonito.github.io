@@ -1,0 +1,1 @@
+<div class="navigation"><?php echo foodica_pagination(); ?></div>
